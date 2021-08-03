@@ -57,6 +57,7 @@ Anishka (https://github.com/anishka01)
 - Jimmy Lee Jones
 - [Dalila Baba ameur](https://github.com/DalilaBA)
 - [Kaung Wai](https://github.com/kaungwai)
+- [Joshua Tumlinson](https://github.com/joshuaTumlinson)
 - [Benjamin Wolf](https://github.com/devBenWolf)
 - [Sameer Fidai](https://github.com/sameerfidai)
 - [Vinod Biradar](https://github.com/vinod014)
